@@ -28,10 +28,10 @@
 1. We use jacoco to calculate coverage.
 2. You can download the APP source code in here.
   * https://sstl-maprl.coding.net/s/e0de7635-5861-4e29-9ed3-49bebbc03064
-  *https://sstl-maprl.coding.net/s/3f9633fe-4ea9-49a1-b33f-76e940bdcbaf
-  *https://sstl-maprl.coding.net/s/df201a13-7ad0-4a18-8d32-76aa5174d5ba
-  *https://sstl-maprl.coding.net/s/677884ef-7031-4a0b-ab5d-f51b563fcd0a
-  *https://sstl-maprl.coding.net/s/91396f50-6d44-4a4e-a51f-ffe9f41effda
+  * https://sstl-maprl.coding.net/s/3f9633fe-4ea9-49a1-b33f-76e940bdcbaf
+  * https://sstl-maprl.coding.net/s/df201a13-7ad0-4a18-8d32-76aa5174d5ba
+  * https://sstl-maprl.coding.net/s/677884ef-7031-4a0b-ab5d-f51b563fcd0a
+  * https://sstl-maprl.coding.net/s/91396f50-6d44-4a4e-a51f-ffe9f41effda
 4. After testing ,run this code to get the coverage.ec
   ```bash
    adb pull mnt/sdcard/coverage.ec C:\Users\user\Desktop\testReport\jacoco
